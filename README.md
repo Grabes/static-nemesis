@@ -1,0 +1,4 @@
+static-nemesis
+==============
+
+Static assets
